@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 48;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -117,6 +117,20 @@
 		A6FFB88E20F1783600F1EE57 /* iwlwifi-5000-5.ucode in Resources */ = {isa = PBXBuildFile; fileRef = A6FFB87220F1783600F1EE57 /* iwlwifi-5000-5.ucode */; };
 		A6FFB88F20F1783600F1EE57 /* LICENSE.iwlwifi-6050-ucode in Resources */ = {isa = PBXBuildFile; fileRef = A6FFB87320F1783600F1EE57 /* LICENSE.iwlwifi-6050-ucode */; };
 		A6FFB89020F1783600F1EE57 /* iwlwifi-6050-5.ucode in Resources */ = {isa = PBXBuildFile; fileRef = A6FFB87420F1783600F1EE57 /* iwlwifi-6050-5.ucode */; };
+		E82A947E21AA12D8006E99A2 /* iwlwifi-8265-27.ucode in Resources */ = {isa = PBXBuildFile; fileRef = E82A947121AA12D7006E99A2 /* iwlwifi-8265-27.ucode */; };
+		E82A947F21AA12D8006E99A2 /* iwlwifi-8000C-27.ucode in Resources */ = {isa = PBXBuildFile; fileRef = E82A947221AA12D7006E99A2 /* iwlwifi-8000C-27.ucode */; };
+		E82A948021AA12D8006E99A2 /* iwlwifi-8265-22.ucode in Resources */ = {isa = PBXBuildFile; fileRef = E82A947321AA12D7006E99A2 /* iwlwifi-8265-22.ucode */; };
+		E82A948121AA12D8006E99A2 /* iwlwifi-8000C-16.ucode in Resources */ = {isa = PBXBuildFile; fileRef = E82A947421AA12D7006E99A2 /* iwlwifi-8000C-16.ucode */; };
+		E82A948221AA12D8006E99A2 /* iwlwifi-8000C-22.ucode in Resources */ = {isa = PBXBuildFile; fileRef = E82A947521AA12D7006E99A2 /* iwlwifi-8000C-22.ucode */; };
+		E82A948321AA12D8006E99A2 /* iwlwifi-8000C-34.ucode in Resources */ = {isa = PBXBuildFile; fileRef = E82A947621AA12D7006E99A2 /* iwlwifi-8000C-34.ucode */; };
+		E82A948421AA12D8006E99A2 /* iwlwifi-8000C-21.ucode in Resources */ = {isa = PBXBuildFile; fileRef = E82A947721AA12D7006E99A2 /* iwlwifi-8000C-21.ucode */; };
+		E82A948521AA12D8006E99A2 /* iwlwifi-8265-31.ucode in Resources */ = {isa = PBXBuildFile; fileRef = E82A947821AA12D7006E99A2 /* iwlwifi-8265-31.ucode */; };
+		E82A948621AA12D8006E99A2 /* iwlwifi-8265-36.ucode in Resources */ = {isa = PBXBuildFile; fileRef = E82A947921AA12D7006E99A2 /* iwlwifi-8265-36.ucode */; };
+		E82A948721AA12D8006E99A2 /* iwlwifi-8265-34.ucode in Resources */ = {isa = PBXBuildFile; fileRef = E82A947A21AA12D7006E99A2 /* iwlwifi-8265-34.ucode */; };
+		E82A948821AA12D8006E99A2 /* iwlwifi-8265-21.ucode in Resources */ = {isa = PBXBuildFile; fileRef = E82A947B21AA12D8006E99A2 /* iwlwifi-8265-21.ucode */; };
+		E82A948921AA12D8006E99A2 /* iwlwifi-8000C-31.ucode in Resources */ = {isa = PBXBuildFile; fileRef = E82A947C21AA12D8006E99A2 /* iwlwifi-8000C-31.ucode */; };
+		E82A948A21AA12D8006E99A2 /* iwlwifi-8000C-36.ucode in Resources */ = {isa = PBXBuildFile; fileRef = E82A947D21AA12D8006E99A2 /* iwlwifi-8000C-36.ucode */; };
+		E8DC295D21AA09DA004E21FE /* LICENSE.iwlwifi-8000-ucode in Resources */ = {isa = PBXBuildFile; fileRef = E8DC295A21AA09DA004E21FE /* LICENSE.iwlwifi-8000-ucode */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -251,6 +265,20 @@
 		A6FFB87220F1783600F1EE57 /* iwlwifi-5000-5.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-5000-5.ucode"; sourceTree = "<group>"; };
 		A6FFB87320F1783600F1EE57 /* LICENSE.iwlwifi-6050-ucode */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "LICENSE.iwlwifi-6050-ucode"; sourceTree = "<group>"; };
 		A6FFB87420F1783600F1EE57 /* iwlwifi-6050-5.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-6050-5.ucode"; sourceTree = "<group>"; };
+		E82A947121AA12D7006E99A2 /* iwlwifi-8265-27.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-8265-27.ucode"; sourceTree = "<group>"; };
+		E82A947221AA12D7006E99A2 /* iwlwifi-8000C-27.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-8000C-27.ucode"; sourceTree = "<group>"; };
+		E82A947321AA12D7006E99A2 /* iwlwifi-8265-22.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-8265-22.ucode"; sourceTree = "<group>"; };
+		E82A947421AA12D7006E99A2 /* iwlwifi-8000C-16.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-8000C-16.ucode"; sourceTree = "<group>"; };
+		E82A947521AA12D7006E99A2 /* iwlwifi-8000C-22.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-8000C-22.ucode"; sourceTree = "<group>"; };
+		E82A947621AA12D7006E99A2 /* iwlwifi-8000C-34.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-8000C-34.ucode"; sourceTree = "<group>"; };
+		E82A947721AA12D7006E99A2 /* iwlwifi-8000C-21.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-8000C-21.ucode"; sourceTree = "<group>"; };
+		E82A947821AA12D7006E99A2 /* iwlwifi-8265-31.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-8265-31.ucode"; sourceTree = "<group>"; };
+		E82A947921AA12D7006E99A2 /* iwlwifi-8265-36.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-8265-36.ucode"; sourceTree = "<group>"; };
+		E82A947A21AA12D7006E99A2 /* iwlwifi-8265-34.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-8265-34.ucode"; sourceTree = "<group>"; };
+		E82A947B21AA12D8006E99A2 /* iwlwifi-8265-21.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-8265-21.ucode"; sourceTree = "<group>"; };
+		E82A947C21AA12D8006E99A2 /* iwlwifi-8000C-31.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-8000C-31.ucode"; sourceTree = "<group>"; };
+		E82A947D21AA12D8006E99A2 /* iwlwifi-8000C-36.ucode */ = {isa = PBXFileReference; lastKnownFileType = file; path = "iwlwifi-8000C-36.ucode"; sourceTree = "<group>"; };
+		E8DC295A21AA09DA004E21FE /* LICENSE.iwlwifi-8000-ucode */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "LICENSE.iwlwifi-8000-ucode"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -267,6 +295,19 @@
 		A60CC38A20F1537A007E2591 /* firmware */ = {
 			isa = PBXGroup;
 			children = (
+				E82A947421AA12D7006E99A2 /* iwlwifi-8000C-16.ucode */,
+				E82A947721AA12D7006E99A2 /* iwlwifi-8000C-21.ucode */,
+				E82A947521AA12D7006E99A2 /* iwlwifi-8000C-22.ucode */,
+				E82A947221AA12D7006E99A2 /* iwlwifi-8000C-27.ucode */,
+				E82A947C21AA12D8006E99A2 /* iwlwifi-8000C-31.ucode */,
+				E82A947621AA12D7006E99A2 /* iwlwifi-8000C-34.ucode */,
+				E82A947D21AA12D8006E99A2 /* iwlwifi-8000C-36.ucode */,
+				E82A947B21AA12D8006E99A2 /* iwlwifi-8265-21.ucode */,
+				E82A947321AA12D7006E99A2 /* iwlwifi-8265-22.ucode */,
+				E82A947121AA12D7006E99A2 /* iwlwifi-8265-27.ucode */,
+				E82A947821AA12D7006E99A2 /* iwlwifi-8265-31.ucode */,
+				E82A947A21AA12D7006E99A2 /* iwlwifi-8265-34.ucode */,
+				E82A947921AA12D7006E99A2 /* iwlwifi-8265-36.ucode */,
 				A6FFB87120F1783600F1EE57 /* iwlwifi-100-5.ucode */,
 				A6FFB85920F1783300F1EE57 /* iwlwifi-105-6.ucode */,
 				A6FFB85F20F1783400F1EE57 /* iwlwifi-135-6.ucode */,
@@ -296,6 +337,7 @@
 				A6FFB86720F1783400F1EE57 /* LICENSE.iwlwifi-6000g2a-ucode */,
 				A6FFB85B20F1783300F1EE57 /* LICENSE.iwlwifi-6000g2b-ucode */,
 				A6FFB87320F1783600F1EE57 /* LICENSE.iwlwifi-6050-ucode */,
+				E8DC295A21AA09DA004E21FE /* LICENSE.iwlwifi-8000-ucode */,
 			);
 			path = firmware;
 			sourceTree = "<group>";
@@ -605,17 +647,16 @@
 		A650836B1FEFB2DC001300AC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0920;
+				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = "Roman Peshkov";
 				TargetAttributes = {
 					A65083731FEFB2DC001300AC = {
 						CreatedOnToolsVersion = 9.2;
-						ProvisioningStyle = Automatic;
 					};
 				};
 			};
 			buildConfigurationList = A650836E1FEFB2DC001300AC /* Build configuration list for PBXProject "IntelWifi" */;
-			compatibilityVersion = "Xcode 8.0";
+			compatibilityVersion = "Xcode 10.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -639,6 +680,7 @@
 				A6FFB88C20F1783600F1EE57 /* iwlwifi-6000g2a-5.ucode in Resources */,
 				A6FFB88620F1783600F1EE57 /* iwlwifi-5000-1.ucode in Resources */,
 				A6FFB87920F1783600F1EE57 /* iwlwifi-6050-4.ucode in Resources */,
+				E82A948121AA12D8006E99A2 /* iwlwifi-8000C-16.ucode in Resources */,
 				A6FFB87F20F1783600F1EE57 /* LICENSE.iwlwifi-5000-ucode in Resources */,
 				A6FFB87A20F1783600F1EE57 /* iwlwifi-1000-3.ucode in Resources */,
 				A6FFB88320F1783600F1EE57 /* LICENSE.iwlwifi-6000g2a-ucode in Resources */,
@@ -646,6 +688,9 @@
 				A6FFB87720F1783600F1EE57 /* LICENSE.iwlwifi-6000g2b-ucode in Resources */,
 				A6FFB87C20F1783600F1EE57 /* iwlwifi-2030-6.ucode in Resources */,
 				A6FFB88020F1783600F1EE57 /* iwlwifi-5000-2.ucode in Resources */,
+				E8DC295D21AA09DA004E21FE /* LICENSE.iwlwifi-8000-ucode in Resources */,
+				E82A948A21AA12D8006E99A2 /* iwlwifi-8000C-36.ucode in Resources */,
+				E82A948421AA12D8006E99A2 /* iwlwifi-8000C-21.ucode in Resources */,
 				A6FFB88E20F1783600F1EE57 /* iwlwifi-5000-5.ucode in Resources */,
 				A6FFB88720F1783600F1EE57 /* LICENSE.iwlwifi-100-ucode in Resources */,
 				A6FFB87E20F1783600F1EE57 /* LICENSE.iwlwifi-135-ucode in Resources */,
@@ -653,18 +698,28 @@
 				A6FFB88420F1783600F1EE57 /* LICENSE.iwlwifi-2000-ucode in Resources */,
 				A6FFB88120F1783600F1EE57 /* LICENSE.iwlwifi-5150-ucode in Resources */,
 				A6FFB88A20F1783600F1EE57 /* LICENSE.iwlwifi-105-ucode in Resources */,
+				E82A948721AA12D8006E99A2 /* iwlwifi-8265-34.ucode in Resources */,
 				A6FFB87820F1783600F1EE57 /* iwlwifi-6000g2b-5.ucode in Resources */,
 				A6FFB87520F1783600F1EE57 /* iwlwifi-105-6.ucode in Resources */,
+				E82A948021AA12D8006E99A2 /* iwlwifi-8265-22.ucode in Resources */,
+				E82A948621AA12D8006E99A2 /* iwlwifi-8265-36.ucode in Resources */,
 				A6FFB88F20F1783600F1EE57 /* LICENSE.iwlwifi-6050-ucode in Resources */,
+				E82A948921AA12D8006E99A2 /* iwlwifi-8000C-31.ucode in Resources */,
 				A6FFB87B20F1783600F1EE57 /* iwlwifi-135-6.ucode in Resources */,
 				A6FFB88520F1783600F1EE57 /* iwlwifi-5150-2.ucode in Resources */,
 				A6FFB88920F1783600F1EE57 /* LICENSE.iwlwifi-1000-ucode in Resources */,
 				A6FFB87620F1783600F1EE57 /* iwlwifi-6000-4.ucode in Resources */,
+				E82A948821AA12D8006E99A2 /* iwlwifi-8265-21.ucode in Resources */,
 				A60CC38C20F16383007E2591 /* iwlwifi-6000g2b-6.ucode in Resources */,
+				E82A948521AA12D8006E99A2 /* iwlwifi-8265-31.ucode in Resources */,
 				A6FFB88B20F1783600F1EE57 /* LICENSE.iwlwifi-2030-ucode in Resources */,
 				A6FFB89020F1783600F1EE57 /* iwlwifi-6050-5.ucode in Resources */,
+				E82A947E21AA12D8006E99A2 /* iwlwifi-8265-27.ucode in Resources */,
+				E82A947F21AA12D8006E99A2 /* iwlwifi-8000C-27.ucode in Resources */,
 				A6FFB88820F1783600F1EE57 /* iwlwifi-2000-6.ucode in Resources */,
+				E82A948221AA12D8006E99A2 /* iwlwifi-8000C-22.ucode in Resources */,
 				A6FFB87D20F1783600F1EE57 /* iwlwifi-1000-5.ucode in Resources */,
+				E82A948321AA12D8006E99A2 /* iwlwifi-8000C-34.ucode in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -737,6 +792,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -744,6 +800,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -764,6 +821,7 @@
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
+					"CONFIG_IWLWIFI_DEBUG=1",
 				);
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
@@ -792,6 +850,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -799,6 +858,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -830,8 +890,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1.0.0d1;
+				DEVELOPMENT_TEAM = V2K89MT427;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"CONFIG_IWLWIFI_DEBUG=1",
 					"DEBUG=1",
@@ -840,11 +903,12 @@
 				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = YES;
 				HEADER_SEARCH_PATHS = IntelWifi/porting/;
 				INFOPLIST_FILE = IntelWifi/Info.plist;
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				MODULE_NAME = net.rpeshkov.IntelWifi;
 				MODULE_VERSION = 1.0.0d1;
 				PRODUCT_BUNDLE_IDENTIFIER = net.rpeshkov.IntelWifi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = macosx;
 				SYSTEM_HEADER_SEARCH_PATHS = IntelWifi/porting/;
 				USER_HEADER_SEARCH_PATHS = ../common;
@@ -857,16 +921,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_WARN_DOCUMENTATION_COMMENTS = NO;
+				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1.0.0d1;
+				DEVELOPMENT_TEAM = V2K89MT427;
 				GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS = YES;
 				HEADER_SEARCH_PATHS = IntelWifi/porting/;
 				INFOPLIST_FILE = IntelWifi/Info.plist;
-				MACOSX_DEPLOYMENT_TARGET = 10.13;
+				MACOSX_DEPLOYMENT_TARGET = 10.14;
 				MODULE_NAME = net.rpeshkov.IntelWifi;
 				MODULE_VERSION = 1.0.0d1;
 				PRODUCT_BUNDLE_IDENTIFIER = net.rpeshkov.IntelWifi;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SDKROOT = macosx;
 				SYSTEM_HEADER_SEARCH_PATHS = IntelWifi/porting/;
 				USER_HEADER_SEARCH_PATHS = ../common;
